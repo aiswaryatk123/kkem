@@ -1,0 +1,20 @@
+h1#t1{
+    color:red;
+    background-color: aqua;
+   
+}
+h1#t2{
+    color: blueviolet;
+}
+p.p1{
+    color: red;
+}
+p.p2{
+    color:blue;
+}
+h1,p{
+    text-align: center;
+}
+*{
+    background-color: blanchedalmond;
+}
