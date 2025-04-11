@@ -1,8 +1,16 @@
 div{
+    height: 125px;
+    width: 50%;
     background-color: bisque;
     /* padding: 50px; */
-    margin: auto;
+    /* margin: auto;
+    text-align: center; */
+    float: right;
 }
 form{
     padding-left: 60px;
+}
+radio{
+    margin: 40px;
+    padding: 30px;
 }
